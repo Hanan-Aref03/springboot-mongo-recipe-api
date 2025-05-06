@@ -1,0 +1,21 @@
+# Java and Maven
+target/
+*.class
+*.jar
+*.war
+*.iml
+.idea/
+*.log
+*.db
+*.env
+
+# OS files
+.DS_Store
+
+# IntelliJ
+*.ipr
+*.iws
+out/
+
+# VS Code
+.vscode/
